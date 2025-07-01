@@ -21,7 +21,7 @@ Each sample includes four features:
 
 Target Variable: `Species`
 
-Download Dataset: [iris.csv](Iris.csv.xlsx)
+Download Dataset: [Iris.csv](iris.csv.xlsx)
 
 ## Files Included
 
