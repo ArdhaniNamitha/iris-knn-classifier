@@ -1,7 +1,5 @@
 # iris-knn-classifier
 
-# Iris_KNN_Classifier
-
 A machine learning project using the K-Nearest Neighbors (KNN) algorithm to classify Iris flowers. The project includes data preprocessing, model training, accuracy evaluation, visualization of K effects, confusion matrix analysis, and 2D decision boundary plotting.
 
 ## Objective
